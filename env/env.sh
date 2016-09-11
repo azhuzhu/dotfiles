@@ -2,7 +2,7 @@
 
     export TERM="screen-256color"
     # PATH
-    export EDITOR='subl -w -n'
+    export EDITOR='subl -w'
     # export PYTHONPATH=$PYTHONPATH
     # export MANPATH="/usr/local/man:$MANPATH"
 
